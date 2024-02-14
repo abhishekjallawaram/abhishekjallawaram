@@ -105,8 +105,6 @@
   style="max-width: 100%"
 />
 
-(https://github.com/abhishekjallawaram/abhishekjallawaram/blob/output/github-contribution-grid-snake.gif)
-
 <hr />
 
 <h3>Overview:</h3>
