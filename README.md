@@ -19,7 +19,7 @@ Trophy
   />
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=tanv33&show_icons=true&theme=light"
+    src="https://github-readme-stats.vercel.app/api?username=abhishekjallawaram&show_icons=true&theme=light"
   />
 </p>
 
