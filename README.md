@@ -2,17 +2,9 @@
 <br />
 <hr />
 
-<h3 align="left">
-  Connect with me:<img
-    align="center"
-    src="https://github.com/CyberBoyAyush/CyberBoyAyush/raw/master/gifs/Handshake.gif"
-    height="45px"
-    style="max-width: 100%"
-  />
-</h3>
 <p align="center">
   <a
-    href="https://linkedin.com/in/tanveer-khan-b4a3b621b"
+    href="https://www.linkedin.com/in/abhishek-jallawaram"
     target="_blank"
     rel="noopener noreferrer"
     ><img
