@@ -82,6 +82,16 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="75" width="75"/>
 </a>
+<a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
+  <img src="https://example.com/path-to-nlp-icon.svg" alt="NLP" height="50" width="50"/>
+</a>
+<a href="https://huggingface.co/bert-base-uncased" target="_blank" rel="noreferrer">
+  <img src="https://example.com/path-to-bert-icon.svg" alt="BERT" height="50" width="50"/>
+</a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="50" width="50"/>
+</a>
+
 
 </p>
 
