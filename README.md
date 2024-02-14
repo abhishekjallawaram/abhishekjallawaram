@@ -22,8 +22,8 @@ Trophy
     src="https://github-readme-stats.vercel.app/api?username=abhishekjallawaram&show_icons=true&theme=light"
   />
 </p>
-
-
+<hr />
+<br />
 
 <h3>Overview:</h3>
 <p align="center">
