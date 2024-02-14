@@ -15,7 +15,7 @@ Trophy
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tanv33&theme=light"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjallawaram&theme=light"
   />
   <img
     width="48%"
