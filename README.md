@@ -48,15 +48,13 @@
 </p>
 <hr />
 
-<p align="center">
-  <img
+
+<!--   <img
     height="200px"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekjallawaram&show_icons=true&locale=en&layout=compact"
     alt="abhishekjallawaram"
-  />
-</p>
+  /> -->
 
-<hr />
 <h3 align="left">Streak & Statistics:</h3>
 <br />
 <p align="center">
