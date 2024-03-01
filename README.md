@@ -20,8 +20,7 @@
 </p>
 
 <a> 
-    <a href="https://github.com/abhishekjallawaram"><img alt="Abhishek Jallawaram's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AbhishekJallawaram8&show_icons=true&count_private=true&theme=onedark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/abhishekjallawaram"><img alt="Abhishek Jallawaram's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abhishekjallawaram&langs_count=8&layout=compact&theme=onedark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/abhishekjallawaram"><img alt="Abhishek Jallawaram's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abhishekjallawaram&show_icons=true&count_private=true&theme=onedark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" /></a>
   <br/>
 </a>
 
