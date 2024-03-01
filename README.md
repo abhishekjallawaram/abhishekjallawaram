@@ -9,6 +9,30 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekjallawaram&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjallawaram&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="center">
+  <a href="https://github.com/abhishekjallawaram">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjallawaram&theme=radical&border=7F3FBF&background=0D1117" alt="Abhishek's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/abhishekjallawaram">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekjallawaram&theme=radical" alt="Abhishek Jallawaram's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/abhishekjallawaram"><img alt="Abhishek Jallawaram's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abhishekjallawaram&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/abhishekjallawaram"><img alt="Abhishek Jallawaram's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abhishekjallawaram&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Abhishek Jallawaram's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekjallawaram&custom_title=Abhishek%20Jallawaram's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishekjallawaram&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
