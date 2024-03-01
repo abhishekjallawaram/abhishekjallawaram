@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/abhishekjallawaram">
-    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=abhishekjallawaram&theme=radical&border=7F3FBF&background=0D1117](https://github-readme-stats.vercel.app/api?username=abhishekjallawaram&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)" alt="Abhishek's GitHub streak"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=abhishekjallawaram&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="Abhishek's GitHub streak"/>
   </a>
 </p>
 
