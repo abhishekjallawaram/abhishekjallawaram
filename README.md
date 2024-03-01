@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/abhishekjallawaram">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjallawaram&theme=onedark&hide_border=true" alt="Abhishek's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjallawaram&theme=onedark&border=7F3FBF&background=0D1117" alt="Abhishek's GitHub streak"/>
   </a>
 </p>
 
