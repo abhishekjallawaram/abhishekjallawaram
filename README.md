@@ -27,7 +27,9 @@
 <a> 
     <a href="https://github.com/abhishekjallawaram"><img alt="Abhishek Jallawaram's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abhishekjallawaram&show_icons=true&count_private=true&theme=onedark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
-</a>
+</a>  
+
+![Abhishek Jallawaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekjallawaram&show_icons=true&theme=onedark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
 
 ![Abhishek Jallawaram's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekjallawaram&custom_title=Abhishek%20Jallawaram's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
