@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-jallawaram) 
 
 <br/>
@@ -9,7 +9,7 @@
 
 <br/>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Statistics:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
