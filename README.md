@@ -32,7 +32,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishekjallawaram&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Quote for a Day
+### ✍️ A Quote for a Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
