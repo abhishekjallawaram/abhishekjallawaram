@@ -24,7 +24,7 @@
   </a>
 </p>  
 
-![Abhishek Jallawaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekjallawaram&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=graywhite&border_color=7F3FBF&title_color=F85D7F&icon_color=F8D866)
+![Abhishek Jallawaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekjallawaram&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vision-friendly-dark&border_color=7F3FBF&title_color=F85D7F&icon_color=F8D866)
 
 
 ![Abhishek Jallawaram's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekjallawaram&custom_title=Abhishek%20Jallawaram's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
