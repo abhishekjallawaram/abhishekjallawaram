@@ -33,7 +33,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=abhishekjallawaram&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ A Quote for a Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark)
 
 ---
 <!--[![](https://visitcount.itsvg.in/api?id=abhishekjallawaram&icon=0&color=0)](https://visitcount.itsvg.in) -->
