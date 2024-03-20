@@ -32,7 +32,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishekjallawaram&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjallawaram&hide_progress=true&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjallawaram&layout=compact&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ A Quote for a Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark)
