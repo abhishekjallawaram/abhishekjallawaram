@@ -6,7 +6,6 @@
 <br/>
 
 # 💻 Tech Stack:
-# 💻 Tech Stack:
 
 ### 🖥️ Programming Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
