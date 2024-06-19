@@ -77,8 +77,8 @@
 ![Abhishek Jallawaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekjallawaram&show_icons=true&include_all_commits=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vision-friendly-dark&border_color=7F3FBF&icon_color=F8D866)-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjallawaram&layout=compact&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="Top Langs" height="300px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjallawaram&show_icons=true&include_all_commits=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vision-friendly-dark&border_color=7F3FBF&icon_color=F8D866" alt="Abhishek Jallawaram's GitHub stats" height="300px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjallawaram&layout=compact&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="Top Langs" height="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjallawaram&show_icons=true&include_all_commits=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vision-friendly-dark&border_color=7F3FBF&icon_color=F8D866" alt="Abhishek Jallawaram's GitHub stats" height="250px"/>
 </p>
 
 
