@@ -1,7 +1,7 @@
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-jallawaram) 
-[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)](https://github.com/abhishekjallawaram/resume.md)
+[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)](https://github.com/abhishekjallawaram/abhishekjallawaram/blob/main/resume.md)
 
 <br/>
 
