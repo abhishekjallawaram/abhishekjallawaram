@@ -72,9 +72,15 @@
   </a>
 </p>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjallawaram&layout=compact&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjallawaram&layout=compact&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-![Abhishek Jallawaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekjallawaram&show_icons=true&include_all_commits=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vision-friendly-dark&border_color=7F3FBF&icon_color=F8D866)
+![Abhishek Jallawaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekjallawaram&show_icons=true&include_all_commits=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vision-friendly-dark&border_color=7F3FBF&icon_color=F8D866)-->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjallawaram&layout=compact&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="Top Langs" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjallawaram&show_icons=true&include_all_commits=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vision-friendly-dark&border_color=7F3FBF&icon_color=F8D866" alt="Abhishek Jallawaram's GitHub stats" height="200px"/>
+</p>
+
 
 
 ![Abhishek Jallawaram's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekjallawaram&custom_title=Abhishek%20Jallawaram's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
