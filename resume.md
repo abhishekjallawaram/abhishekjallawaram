@@ -81,3 +81,15 @@ Fairfax, VA
 
 ---
 
+---
+
+## 🏆 Certifications and Achievements
+
+- **Oracle Cloud Infrastructure Generative AI 2024**  
+  *July 2024 - July 2026*
+
+- **Hackathon Winner - PatriotHacks 2023**
+
+- **Capture the Flag Winner - Hackfax 2024**
+
+---
