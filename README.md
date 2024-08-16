@@ -3,9 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-jallawaram) 
 [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)](https://github.com/abhishekjallawaram/abhishekjallawaram/blob/main/resume.md)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/jallawaramabhishek?theme=dark&font=Red%20Hat%20Display&ext=heatmap)
-
-
 <br/>
 
 # 💻 Tech Stack:
@@ -91,6 +88,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishekjallawaram&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+## Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/jallawaramabhishek?theme=dark&font=Red%20Hat%20Display&ext=heatmap)
 
 
 ### ✍️ A Quote for a Day
