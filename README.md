@@ -91,7 +91,7 @@
 ## Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jallawaramabhishek?theme=dark&font=Red%20Hat%20Display&ext=heatmap)
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=jallawaramabhishek&animated=true" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=jallawaramabhishek&animated=true&theme=tokyonight" alt="LeetCode Badges"/>
 
 ### ✍️ A Quote for a Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark)
